@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.9ed843b5.css",
+    "main.js": "/my-portfolio/static/js/main.a4e1ecc1.js",
+    "static/media/aboutme.jpg": "/my-portfolio/static/media/aboutme.87cab195157c1a2e3954.jpg",
+    "static/media/Rudnik Vladimir.pdf": "/my-portfolio/static/media/Rudnik Vladimir.adf7b7537b15b708125d.pdf",
+    "static/media/logo.svg": "/my-portfolio/static/media/logo.48813b1508cbaefaf416988df2350ce1.svg",
+    "index.html": "/my-portfolio/index.html",
+    "static/media/close.svg": "/my-portfolio/static/media/close.a591c5268e7cbcfeb569c6afea5745fc.svg",
+    "static/media/open.svg": "/my-portfolio/static/media/open.e6bd41ec79183186fdb132e92b58c1de.svg",
+    "main.9ed843b5.css.map": "/my-portfolio/static/css/main.9ed843b5.css.map",
+    "main.a4e1ecc1.js.map": "/my-portfolio/static/js/main.a4e1ecc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ed843b5.css",
+    "static/js/main.a4e1ecc1.js"
+  ]
+}
