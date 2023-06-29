@@ -1,0 +1,64 @@
+[
+  {
+    "title": "WALLET",
+    "image": "./projectImages/wallet.png",
+    "description": "Wallet is a comprehensive and user-friendly web application designed to simplify personal finance management and provide a secure platform for individuals to track their expenses, budget effectively, and achieve financial goals. With its intuitive interface and robust features, Wallet empowers users to take control of their finances and make informed decisions about their money.",
+    "technologies": "React | React Hook | RTK Query | Styled Components | Responsive/Adaptive design | GitHub | Node.js | MongoDB | Mongoose | Express | Swagger",
+    "github": "https://github.com/VSRudnyk/wallet_frontend",
+    "deployed": "https://vsrudnyk.github.io/wallet_frontend/",
+    "bgcolor": "#f37737",
+    "id": "1"
+  },
+  {
+    "title": "FILMOTEKA",
+    "image": "./projectImages/filmoteka.png",
+    "technologies": "HTML | SASS | JavaScript | Parcel | Handlebars | Responsive/Adaptive design | GitHub | Figma",
+    "description": "Filmoteka is a cutting-edge web application designed to provide users with up-to-date information about new movies and an immersive experience through access to trailers. With its sleek interface and comprehensive database, Filmoteka offers a one-stop platform for movie enthusiasts to stay informed about the latest releases and get a glimpse of upcoming films.",
+    "github": "https://github.com/VSRudnyk/Filmoteka",
+    "deployed": "https://vsrudnyk.github.io/Filmoteka/",
+    "bgcolor": "#29cbe0",
+    "id": "2"
+  },
+  {
+    "title": "ICE CREAM",
+    "image": "./projectImages/ice-cream.png",
+    "technologies": "HTML | SASS | JavaScript | Responsive/Adaptive design | Parcel | Figma | Trello | GitHub",
+    "description": "IceCream is a delightful web application that brings the joy of irresistible and delicious frozen treats to both physical store visitors and online customers. With its seamless user experience and a mouthwatering selection of products, IceCream is a go-to destination for ice cream lovers of all ages.",
+    "github": "https://github.com/VSRudnyk/iceCream",
+    "deployed": "https://vsrudnyk.github.io/iceCream/",
+    "bgcolor": "#6c4bf4",
+    "id": "3"
+  },
+  {
+    "title": "WEB STUDIO",
+    "image": "./projectImages/web-studio.png",
+    "technologies": "HTML | CSS | SASS | JavaScript | Figma | Responsive/Adaptive design | GitHub",
+    "description": "Web Studio is a professional web application dedicated to providing top-notch web and mobile development services. With a team of skilled developers and designers, Web Studio offers a comprehensive range of services tailored to meet the unique needs of businesses and individuals looking to establish a strong online presence.",
+    "github": "https://github.com/VSRudnyk/goit-markup-hw-08",
+    "deployed": "https://vsrudnyk.github.io/goit-markup-hw-08/",
+    "bgcolor": "#f85781",
+    "id": "4"
+  },
+
+  {
+    "title": "PHONEBOOK",
+    "image": "./projectImages/phonebook.png",
+    "description": "Phonebook is a straightforward web application designed to help users conveniently manage their contact information. With its user-friendly interface and essential features, Phonebook allows users to effortlessly add and delete phone numbers, ensuring their contact list stays organized and up to date.",
+    "technologies": "TypeScript | React | Redux | RTK Query | React Hook Form | Styled Components | Responsive/ Adaptive design",
+    "github": "https://github.com/VSRudnyk/phonebook-typescript",
+    "deployed": "https://vsrudnyk.github.io/phonebook-typescript/",
+    "bgcolor": "#ffcc33",
+    "id": "5"
+  },
+
+  {
+    "title": "JAVASCRIPT QUIZ",
+    "image": "./projectImages/quiz.png",
+    "technologies": "React| React Router DOM| React Hook | Styled Components | Material UI | Responsive/ Adaptive design | GitHub",
+    "description": "QUIZ is an interactive web application designed to help users gain a deeper understanding of JavaScript language constructs. With its extensive list of tasks and multiple-choice questions, QUIZ offers a comprehensive learning experience, allowing users to test their knowledge and explore different approaches to solving JavaScript challenges.",
+    "github": "https://github.com/VSRudnyk/javascript-quiz-test",
+    "deployed": "https://vsrudnyk.github.io/javascript-quiz-test/",
+    "bgcolor": "#3e67ff",
+    "id": "6"
+  }
+]
