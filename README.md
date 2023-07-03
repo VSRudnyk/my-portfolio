@@ -19,7 +19,3 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    npm install
    ```
-
-  <p align="right"><a href="#readme-top">back to top</a></p>
-  
-  <!-- USAGE EXAMPLES -->
