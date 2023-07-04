@@ -125,13 +125,13 @@ To get a local copy up and running follow these simple example steps.
   
   - As demonstrated in the photos below, this application is designed to be responsive and adjust seamlessly to fit various screen sizes
   
-    [![Responsiveness Screenshot][responsive-screenshot]](https://michaelyeates.co.uk)
+    ![Responsiveness Screenshot][responsive-screenshot]
     
-    [![Responsiveness Screenshot][responsive-screenshot2]](https://michaelyeates.co.uk)
+    ![Responsiveness Screenshot][responsive-screenshot2]
 
-    [![Responsiveness Screenshot][responsive-screenshot3]](https://michaelyeates.co.uk)
+    ![Responsiveness Screenshot][responsive-screenshot3]
 
-    [![Responsiveness Screenshot][responsive-screenshot4]](https://michaelyeates.co.uk)
+    ![Responsiveness Screenshot][responsive-screenshot4]
 
   <p align="right"><a href="#readme-top">back to top</a></p>
   
@@ -140,7 +140,7 @@ To get a local copy up and running follow these simple example steps.
   
 ## Questions
 
-If you have any inquiries, don't hesitate to reach out to me via socials or by sending an email to <a href="mailto:michael-yeates@outlook.com">v.rudnyk@gmail.com</a>
+If you have any inquiries, don't hesitate to reach out to me via socials or by sending an email to <a href="mailto:v.rudnyk@gmail.com">v.rudnyk@gmail.com</a>
 
 <a href="https://www.linkedin.com/in/vladimir-rudnyk">LinkedIn</a> | <a href="https://github.com/VSRudnyk/">GitHub</a>
 
