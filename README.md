@@ -6,7 +6,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
   <!-- PROJECT LOGO -->
@@ -72,7 +71,7 @@ This portfolio application was built using React and is designed to showcase my 
   
   ### Photos
   
-  [![My React Portfolio Screen Shot][product-screenshot]](https://michaelyeates.co.uk)
+  [![My React Portfolio Screen Shot][product-screenshot]]
 
 [![My React Portfolio Screen Shot][product-screenshot2]](https://michaelyeates.co.uk)
 
@@ -168,8 +167,6 @@ Project Link: [https://github.com/VSRudnyk/my-portfolio](https://github.com/VSRu
 [stars-url]: https://github.com/VSRudnyk/my-portfolio/stargazers
 [issues-shield]: https://img.shields.io/github/issues/VSRudnyk/my-portfolio.svg?style=for-the-badge
 [issues-url]: https://github.com/VSRudnyk/my-portfolio/issues
-[license-shield]: https://img.shields.io/github/license/VSRudnyk/my-portfolio.svg?style=for-the-badge
-[license-url]: https://github.com/VSRudnyk/my-portfolio/blob/main/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/vladimir-rudnyk
 
