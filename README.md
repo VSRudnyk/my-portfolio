@@ -13,7 +13,7 @@
   <br />
   <div align="center">
     <a href="https://github.com/VSRudnyk/my-portfolio">
-      <img src="src/images/logo.svg" alt="Logo" width="200" height="200">
+      <img src="src/images/logo-black.svg" alt="Logo" width="200" height="200">
     </a>
     <h3 align="center">My React Portfolio</h3>
     <p align="center">
@@ -26,7 +26,7 @@ This portfolio application was built using React and is designed to showcase my 
       <a href="https://github.com/VSRudnyk/my-portfolio"><strong>Explore the docs »</strong></a>
       <br/>
       <br/>
-      <a href="https://michaelyeates.co.uk">View Live Website</a>
+      <a href="https://vsrudnyk.github.io/my-portfolio/">View Live Website</a>
       ·
       <a href="https://github.com/VSRudnyk/my-portfolio/issues">Report Bug</a>
       ·
@@ -60,7 +60,6 @@ This portfolio application was built using React and is designed to showcase my 
           <li><a href="#mobile-responsive">Mobile Responsive</a></li>
         </ul>
       </li>
-      <li><a href="#license">License</a></li>
       <li><a href="#questions">Questions</a></li>
     </ol>
   </details>
@@ -73,11 +72,11 @@ This portfolio application was built using React and is designed to showcase my 
   
 ![My React Portfolio Screen Shot][product-screenshot]
 
-[![My React Portfolio Screen Shot][product-screenshot2]](https://michaelyeates.co.uk)
+![My React Portfolio Screen Shot][product-screenshot2]
 
-[![My React Portfolio Screen Shot][product-screenshot3]](https://michaelyeates.co.uk)
+![My React Portfolio Screen Shot][product-screenshot3]
 
-[![My React Portfolio Screen Shot][product-screenshot4]](https://michaelyeates.co.uk)
+![My React Portfolio Screen Shot][product-screenshot4]
 
   <p align="right"><a href="#readme-top">back to top</a></p>
   
@@ -135,21 +134,13 @@ To get a local copy up and running follow these simple example steps.
     [![Responsiveness Screenshot][responsive-screenshot4]](https://michaelyeates.co.uk)
 
   <p align="right"><a href="#readme-top">back to top</a></p>
-
-  <!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE.md` for more information.
-
-  <p align="right"><a href="#readme-top">back to top</a></p>
   
   
 <!-- QUESTIONS -->
   
 ## Questions
 
-If you have any inquiries, don't hesitate to reach out to me via socials or by sending an email to <a href="mailto:michael-yeates@outlook.com">michael-yeates@outlook.com</a>
+If you have any inquiries, don't hesitate to reach out to me via socials or by sending an email to <a href="mailto:michael-yeates@outlook.com">v.rudnyk@gmail.com</a>
 
 <a href="https://www.linkedin.com/in/VSRudnyk/">LinkedIn</a> | <a href="https://github.com/VSRudnyk/">GitHub</a>
 
