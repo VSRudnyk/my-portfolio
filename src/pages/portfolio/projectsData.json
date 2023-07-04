@@ -54,11 +54,22 @@
   {
     "title": "JAVASCRIPT QUIZ",
     "image": "./projectImages/quiz.png",
-    "technologies": "React| React Router DOM| React Hook | Styled Components | Material UI | Responsive/ Adaptive design | GitHub",
+    "technologies": "React | React Router DOM| React Hook | Styled Components | Material UI | Responsive/ Adaptive design | GitHub",
     "description": "QUIZ is an interactive web application designed to help users gain a deeper understanding of JavaScript language constructs. With its extensive list of tasks and multiple-choice questions, QUIZ offers a comprehensive learning experience, allowing users to test their knowledge and explore different approaches to solving JavaScript challenges.",
     "github": "https://github.com/VSRudnyk/javascript-quiz-test",
     "deployed": "https://vsrudnyk.github.io/javascript-quiz-test/",
     "bgcolor": "#3e67ff",
     "id": "6"
+  },
+
+  {
+    "title": "WANDER SNAP",
+    "image": "./projectImages/wander-snap.png",
+    "technologies": "React Native | Expo | RTK Query | Firebase | React Hook | GitHub | Figma",
+    "description": "Wander Snap is a mobile app that lets you take pictures of landmarks, view their locations on a map, leave comments, and like photos. It's a platform for travel enthusiasts to capture, share, and discover iconic places. Join the vibrant community, explore the world through stunning images, and connect with fellow adventurers.",
+    "github": "https://github.com/VSRudnyk/react-native-app",
+    "deployed": "https://github.com/VSRudnyk/react-native-app",
+    "bgcolor": "#FF6C00",
+    "id": "7"
   }
 ]
