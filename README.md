@@ -71,7 +71,7 @@ This portfolio application was built using React and is designed to showcase my 
   
   ### Photos
   
-  [![My React Portfolio Screen Shot][product-screenshot]]
+![My React Portfolio Screen Shot][product-screenshot]
 
 [![My React Portfolio Screen Shot][product-screenshot2]](https://michaelyeates.co.uk)
 
