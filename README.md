@@ -142,7 +142,7 @@ To get a local copy up and running follow these simple example steps.
 
 If you have any inquiries, don't hesitate to reach out to me via socials or by sending an email to <a href="mailto:michael-yeates@outlook.com">v.rudnyk@gmail.com</a>
 
-<a href="https://www.linkedin.com/in/VSRudnyk/">LinkedIn</a> | <a href="https://github.com/VSRudnyk/">GitHub</a>
+<a href="https://www.linkedin.com/in/vladimir-rudnyk">LinkedIn</a> | <a href="https://github.com/VSRudnyk/">GitHub</a>
 
 Project Link: [https://github.com/VSRudnyk/my-portfolio](https://github.com/VSRudnyk/my-portfolio)
 
