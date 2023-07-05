@@ -23,9 +23,6 @@ This portfolio application was built using React and is designed to showcase my 
       Built by: Vladimir Rudnyk
       <br/>
       <br/>
-      <a href="https://github.com/VSRudnyk/my-portfolio"><strong>Explore the docs »</strong></a>
-      <br/>
-      <br/>
       <a href="https://vsrudnyk.github.io/my-portfolio/">View Live Website</a>
       ·
       <a href="https://github.com/VSRudnyk/my-portfolio/issues">Report Bug</a>

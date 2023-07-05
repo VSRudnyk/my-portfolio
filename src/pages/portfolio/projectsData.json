@@ -63,13 +63,22 @@
   },
 
   {
+    "title": "WORD UP",
+    "image": "./projectImages/word-up.png",
+    "technologies": "React Native | Expo | RTK Query | Node.js | MongoDB | Mongoose | Express",
+    "description": "WordUp is an app that helps you memorize and practice new words. With its user-friendly interface and intelligent repetition system, you can enhance your vocabulary skills and improve spelling effortlessly.",
+    "github": "https://github.com/VSRudnyk/english_words_app",
+    "bgcolor": "#4fc87a",
+    "id": "7"
+  },
+
+  {
     "title": "WANDER SNAP",
     "image": "./projectImages/wander-snap.png",
     "technologies": "React Native | Expo | RTK Query | Firebase | React Hook | GitHub | Figma",
     "description": "Wander Snap is a mobile app that lets you take pictures of landmarks, view their locations on a map, leave comments, and like photos. It's a platform for travel enthusiasts to capture, share, and discover iconic places. Join the vibrant community, explore the world through stunning images, and connect with fellow adventurers.",
     "github": "https://github.com/VSRudnyk/react-native-app",
-    "deployed": "https://github.com/VSRudnyk/react-native-app",
     "bgcolor": "#FF6C00",
-    "id": "7"
+    "id": "8"
   }
 ]
